@@ -1,0 +1,26 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Player","order":11,"path":"folders/Player.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
+    {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oGame","order":3,"path":"objects/oGame/oGame.yy",},
+    {"name":"oHouse","order":1,"path":"objects/oHouse/oHouse.yy",},
+    {"name":"oMenu","order":2,"path":"objects/oMenu/oMenu.yy",},
+    {"name":"oPlayer","order":3,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"animation","order":4,"path":"scripts/animation/animation.yy",},
+    {"name":"calculateMovement","order":2,"path":"scripts/calculateMovement/calculateMovement.yy",},
+    {"name":"collision","order":3,"path":"scripts/collision/collision.yy",},
+    {"name":"MenuFunctions","order":5,"path":"scripts/MenuFunctions/MenuFunctions.yy",},
+    {"name":"resetVariables","order":1,"path":"scripts/resetVariables/resetVariables.yy",},
+    {"name":"sHouse","order":1,"path":"sprites/sHouse/sHouse.yy",},
+    {"name":"sMenuBox","order":3,"path":"sprites/sMenuBox/sMenuBox.yy",},
+    {"name":"sPlayerIdle","order":2,"path":"sprites/sPlayerIdle/sPlayerIdle.yy",},
+    {"name":"sTile","order":2,"path":"sprites/sTile/sTile.yy",},
+  ],
+}
